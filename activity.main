@@ -276,6 +276,9 @@ SEE ALSO
        License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
        This is free software: you are free to change and redistribute it.
        There is NO WARRANTY, to the extent permitted by law.
+OUTPUT:
+whoami
+root
 
 
 
@@ -319,6 +322,10 @@ SEE ALSO
        License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.
        This is free software: you are free to change and redistribute it.
        There is NO WARRANTY, to the extent permitted by law.
+
+OUTPUT:
+pwd
+/root
 
 
 
@@ -573,6 +580,18 @@ BUGS AND NOTES
 SEE ALSO
        dircolors(1), ls(1), find(1), du(1), jq(1), strftime(3), gitignore(5)
 
+OUTPUT:
+
+├── Desktop
+├── Documents
+├── Downloads
+├── Music
+├── Pictures
+├── Public
+├── Templates
+└── Videos
+
+9 directories, 0 files
 
 
 
